@@ -1,3 +1,7 @@
+# Motion Planning
+Motion planning is a crucial part in robotics problems. Usually there are obstacles in different environments and we cannot simply ignore noises. Hence, need to compute a path for robot to follow in order to avoid collision. In this project, we need to compute a feasible path for different environments. We will be implementing search based algorithm by ourselves and utilize existing library for sampling based algorithm. Specifically, I am implementing A* algorithm for search based motion planning and RRT* for sampling based motion planning.
+
+
 ## 1. main.py
 This file contains provided functions for this project along with implementation of motion planning for each map. You can choose which map and algorithm to use in __main__.
 
