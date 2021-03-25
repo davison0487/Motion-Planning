@@ -22,7 +22,7 @@ https://github.com/motion-planning/rrt-algorithms
 - 12.tree.py
 
 
-# Resluts
+# Results
 ##	Optimal Path by A* Algorithm
 We will take close look and discuss the quality of computed path for each map.
 
